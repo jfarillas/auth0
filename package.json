@@ -1,0 +1,22 @@
+{
+  "name": "auth0",
+  "version": "1.0.0",
+  "description": "Auth0 Lock Authentication for the different platforms (ie. ReactJS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfarillas/auth0.git"
+  },
+  "keywords": [
+    "auth0"
+  ],
+  "author": "Joseph Ian Farillas <joseph.farillas@domandtom.com> (http://www.domandtom.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfarillas/auth0/issues"
+  },
+  "homepage": "https://github.com/jfarillas/auth0#readme"
+}
