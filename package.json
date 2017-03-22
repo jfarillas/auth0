@@ -1,5 +1,5 @@
 {
-  "name": "auth0",
+  "name": "jifarillas/auth0",
   "version": "1.0.0",
   "description": "Auth0 Lock Authentication for the different platforms (ie. ReactJS)",
   "main": "index.js",
